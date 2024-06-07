@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on developing a YearBook website<br>👯‍♂️ I'm looking to collaborate on machine learning projects<br>🌱 I'm currently learning Full Stack web development using MERN<br>⚡ Fun Fact: I'm cool!<br>
+🔭 I'm currently working on developing a website using MERN<br>👯‍♂️ I'm looking to collaborate on fun projects<br>🌱 I'm currently learning cloud computing<br>⚡ Fun Fact: I play Dungeons & Dragons!<br>
 
 
 ## 🌐 Socials:
