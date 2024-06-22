@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on developing websites using the MERN stack<br>👯‍♂️ I'm looking for internships at tech companies<br>🌱 I'm currently learning cloud computing<br>⚡ Fun Fact: I play Dungeons & Dragons!<br>
+🔭 I'm currently working on developing websites using generative AI and the MERN stack<br>👯‍♂️ I'm looking for internships at tech companies<br>🌱 I'm currently learning cloud computing<br>⚡ Fun Fact: I play Dungeons & Dragons!<br>
 
 
 ## 🌐 Socials:
